@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
@@ -19,8 +19,7 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'envelope', link: 'mailto:knknapp42+githubpages@gmail.com'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
@@ -28,8 +27,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Thanks for reading!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'See also...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Last edited'
