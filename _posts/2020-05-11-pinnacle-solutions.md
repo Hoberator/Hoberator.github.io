@@ -22,8 +22,6 @@ After completing the KC-10 training simulators I was assigned to the UH-60 Virtu
 
 The VMT was developed in Unity Engine and provided a full 3D interactive representation of the vehicle, including breakaways and disassemblies for all major maintenance tasks.
 
-<img src="https://en.wikipedia.org/wiki/General_Electric_T700#/media/File:T700-IHI-401C2_engine_left_side_view_at_JMSDF_Maizuru_Air_Station_July_16,_2016.jpg" style="width:560px;height:315px;">
-
 After a successful year at the company I decided to part ways with Pinnacle Solutions in 2019. The decision to leave came at the conclusion of my role prior to transferring to a new assignment.
 
 [Pinnacle Solutions Homepage (pinnaclesolutionsinc.com/)](https://pinnaclesolutionsinc.com/)

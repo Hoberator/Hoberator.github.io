@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi, I'm Kyle Knapp, a Software Engineer in Huntsville, Alabama. My areas of expertise are in Simulation and Real-time Data Acquisition and Control Software. Ever since I've earned my degree in 2013 I have actively programmed as a career and hobby. I've recently taken an interest in [Serious Games (https://en.wikipedia.org/wiki/Serious_game)] and Unreal Engine to the point that I've developed my own flight simulator.
+
+You can learn more about me by checking out posts in my portfolio or viewing my resume. 
