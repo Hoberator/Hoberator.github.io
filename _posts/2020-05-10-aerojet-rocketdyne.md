@@ -3,7 +3,7 @@ layout: post
 title: "Aerojet Rocketdyne"
 author: "Kyle Knapp"
 categories: facts
-tags: [sample]
+tags: [work]
 image: AR-AMF.jpg
 ---
 
@@ -15,7 +15,7 @@ In 2013 after graduating from university, I started work as a Software Engineer 
 
 While working at AR I frequently travelled to multiple NASA locations like Kennedy Space Center and Stennis Space Center. I also supported projects at multiple Aerojet Rocketdyne locations coast to coast. 
 
-<img src="kyle-rocket.JPG">
+<img src="/assets/img/kyle-rocket.JPG">
 
 My time at Aerojet Rocketdyne ended in 2018 when I accepted a new position at Pinnacle Solutions, Inc.
 
