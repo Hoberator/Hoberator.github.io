@@ -15,6 +15,8 @@ In 2013 after graduating from university, I started work as a Software Engineer 
 
 While working at AR I frequently travelled to multiple NASA locations like Kennedy Space Center and Stennis Space Center. I also supported projects at multiple Aerojet Rocketdyne locations coast to coast. 
 
+<img src="kyle-rocket.JPG">
+
 My time at Aerojet Rocketdyne ended in 2018 when I accepted a new position at Pinnacle Solutions, Inc.
 
 [Aerojet Rocketdyne Homepage (rocket.com)](https://www.rocket.com/)
