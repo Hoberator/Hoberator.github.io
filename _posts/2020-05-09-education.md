@@ -2,7 +2,7 @@
 layout: post
 title: "University"
 author: "Kyle Knapp"
-categories: facts
+categories: education
 tags: [sample]
 image: 16x9_tntech.jpg
 ---
