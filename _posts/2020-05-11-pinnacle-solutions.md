@@ -2,7 +2,7 @@
 layout: post
 title: "Pinnacle Solutions"
 author: "Kyle Knapp"
-categories: facts
+categories: career
 tags: [work]
 image: PSI_Logo.jpg
 ---

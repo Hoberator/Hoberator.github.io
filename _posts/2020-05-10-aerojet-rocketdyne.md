@@ -2,7 +2,7 @@
 layout: post
 title: "Aerojet Rocketdyne"
 author: "Kyle Knapp"
-categories: facts
+categories: career
 tags: [work]
 image: AR-AMF.jpg
 ---

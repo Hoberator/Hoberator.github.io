@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Career', folder: 'pages', file: 'facts.html'}
-- {name: 'Education', folder: 'pages', file: 'resources.html'}
-- {name: 'Portfolio', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Career', folder: 'pages', file: 'career.html'}
+- {name: 'Education', folder: 'pages', file: 'education.html'}
+- {name: 'Portfolio', folder: 'pages', file: portfolio.html'}
 - {name: 'Resume', folder: 'pages', file: 'resume.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}

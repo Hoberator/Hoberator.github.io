@@ -2,7 +2,7 @@
 layout: post
 title: "Coming Soon"
 author: "Kyle Knapp"
-categories: sample
+categories: portfolio
 tags: [sample]
 image: kyle_airplane.jpg
 ---
