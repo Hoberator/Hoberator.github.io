@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming Soon"
+title: "More To Come"
 author: "Kyle Knapp"
 categories: portfolio
 tags: [sample]
